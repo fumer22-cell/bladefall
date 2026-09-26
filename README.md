@@ -3,7 +3,11 @@
 2D sandbox action game: Terraria-style world, ULTRAKILL-style movement, Sekiro-style parry combat.
 Built with TypeScript + Phaser 3 + Vite. See [PLAN.md](PLAN.md) for architecture and roadmap.
 
-## Run
+## Play
+
+Latest build: **https://fumer22-cell.github.io/bladefall/** (auto-deployed by GitHub Actions on every push).
+
+## Run locally
 
 ```bash
 npm install
