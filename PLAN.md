@@ -192,7 +192,7 @@ team, and doubles its damage.
 | Move | A / D |
 | Jump / wall jump | Space (or W) |
 | Dash | Shift |
-| Slide (grounded) / Slam (airborne) | S or Ctrl |
+| Slide (grounded) / Slam (airborne) | S or C (not Ctrl — Ctrl+W would close the tab) |
 | Light attack / use held tool | Left mouse (tap) |
 | Heavy attack | Left mouse (hold), release to swing |
 | Block / Parry | Right mouse (tap = parry, hold = block) |
@@ -208,6 +208,18 @@ Attacks aim toward the mouse (horizontal, with up/down variants; down-air is a p
 ---
 
 ## 4. Phase Breakdown
+
+### Status
+- [x] Phase 1 — Movement + tile collision
+- [ ] Phase 2 — Melee combat vs. dummy
+- [ ] Phase 3 — Worldgen + mining/placing
+- [ ] Phase 4 — Inventory, crafting, save/load
+- [ ] Phase 5 — Enemies (Husk, Crow)
+- [ ] Phase 6 — Survival
+- [ ] Phase 7 — Boss 1
+- [ ] Phase 8 — NPCs + housing
+- [ ] Phase 9a–f — Remaining biomes/enemies/bosses
+- [ ] Phase 10 — Polish
 
 Each phase ends playable, with a short "what to test" list. I stop after each phase for your review.
 
